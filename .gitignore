@@ -1,13 +1,17 @@
-CakePHP 3
-
-/vendor/*
-/config/app.php
-/tmp/*
-/logs/*
-
 CakePHP 2
+app/webroot/files/thali_images/
+app/webroot/files/recipe_images/
+app/webroot/files/profile_image/
+app/webroot/files/vendor_photo/
+app/webroot/files/company_logo/
+app/webroot/files/dish_images/
 
-/app/tmp/*
-/app/Config/core.php
-/app/Config/database.php
-/vendors/*
+app/webroot/files/rq.txt
+app/webroot/files/apiget.txt
+app/webroot/files/detail.txt
+app/webroot/files/d.txt
+app/webroot/error_log
+
+app/tmp/*
+app/Config/database.php
+app/Config/email.php
